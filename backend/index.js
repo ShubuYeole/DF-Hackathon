@@ -21,9 +21,9 @@ app.use(express.json()); // for parsing application/json
 app.use(cookieParser()); // for parsing cookies
 
 // Used for testing
-app.get("/", (req, res) => {
+/* app.get("/", (req, res) => {
     res.send("APi DEveloped by ShubuYeole");
-});
+}); */
 
 // All the routes
 app.use("/api/auth", authRoutes);
