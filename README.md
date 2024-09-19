@@ -13,7 +13,7 @@
 - **Cache** :   Redis For cache storing jwt token
 
 ##### # ## The Site is deoloyed on the following address : 
-> Site can go down if there is inactivity please ping me for redeployment.
+> Site can take up to 50 sec to load so please wait :)
 
 Live Site:   https://df-hackathon.onrender.com/
 
